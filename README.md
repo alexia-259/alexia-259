@@ -1,12 +1,12 @@
-## Hi there 👋
-# Alexia-Maria Petrescu 
+# Hi there 👋
+## Alexia-Maria Petrescu 
 
-# Email – alexia.maria.p03@gmail.com Mobile - 07730097121 
+ Email – alexia.maria.p03@gmail.com Mobile - 07730097121 
 
-# Coventry, West Midlands, CV48BB 
+ Coventry, West Midlands, CV48BB 
  
 
-Summary 
+# Summary 
 A motivated Cyber Security student with a strong academic foundation and project experience using a wide range of programming languages and software packages. I am keen to leverage my knowledge and ambition in an Assistant Lecturer position to contribute to the education of the next generation of cybersecurity professionals. 
 
  
