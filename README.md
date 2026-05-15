@@ -1,9 +1,9 @@
 ## Hi there 👋
-#Alexia-Maria Petrescu 
+# Alexia-Maria Petrescu 
 
-#Email – alexia.maria.p03@gmail.com Mobile - 07730097121 
+# Email – alexia.maria.p03@gmail.com Mobile - 07730097121 
 
-#Coventry, West Midlands, CV48BB 
+# Coventry, West Midlands, CV48BB 
  
 
 Summary 
@@ -11,29 +11,29 @@ A motivated Cyber Security student with a strong academic foundation and project
 
  
 
-#Educational History 
+# Educational History 
 
-##Coventry University. MSc Cyber Security                                                         2025 - Present 
+## Coventry University. MSc Cyber Security                                                         2025 - Present 
 Modules - Security of Connected Systems, Cloud Infrastructure and Operations, Applied Theory of Cyber Security, Network Security and Incident Response   
 
 Projected Grade: Honours 2:1 Degree   
 
  
 
-##Coventry University. BSc Forensic Investigation                                                  2022 - 2025 
+## Coventry University. BSc Forensic Investigation                                                  2022 - 2025 
 Modules - Data Collection and Presentation Skills, Criminal and Civil Law, Investigative Practice, Research Methods, Professional Development, Situational Analysis, Beginner British Sign Language, Digital Forensics, Fraud Investigation and a Dissertation Project in Cybercrime. 
 
 Graduation grade: Honours First Degree   
 
  
 
-##The Mandeville School                                                                                               2020 - 2022 
+## The Mandeville School                                                                                               2020 - 2022 
 
 A-Levels:  Philosophy (B), Biology (C), Forensic Investigation (Distinction)   
 
  
 
-Skills 
+# Skills 
 
 Proficient in Python, C, R, HTML, CSS and database searching using SQL 
 
@@ -57,11 +57,11 @@ Hold a valid driver's license and a clean driving record
 
  
 
-#Experience 
+# Experience 
 
-##Assistant Manager  
+## Assistant Manager  
 
-##PVD Logistics - Aylesbury, UK            					                        2021 - 2025 
+## PVD Logistics - Aylesbury, UK            					                        2021 - 2025 
 
 Communicate with clients and assist courier with facilitating collection/delivery  
 
@@ -77,7 +77,7 @@ In my time at PVD, I developed my skills for professional communication and rela
 
  
 
-#Individual Projects: 
+# Individual Projects: 
 
 Created a Japanese language learning app utilising spaced repetition for my final project in CS50. This app was run on Flask, using a combination of JavaScript, Python, HTLM, and CSS. The user could log in and keep the score of their progress. 
 
