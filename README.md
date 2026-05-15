@@ -7,7 +7,7 @@
  
 
 # Summary 
-A motivated Cyber Security student with a strong academic foundation and project experience using a wide range of programming languages and software packages. I am keen to leverage my knowledge and ambition in an Assistant Lecturer position to contribute to the education of the next generation of cybersecurity professionals. 
+A motivated Cyber Security student with a strong academic foundation and project experience using a wide range of programming languages and software packages. I am keen to leverage my knowledge and ambition and to expand my knowledge.
 
  
 
