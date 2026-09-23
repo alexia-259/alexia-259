@@ -1,9 +1,9 @@
 # Hi there 👋
 ## Alexia-Maria Petrescu 
 
- Email – alexia.maria.p03@gmail.com Mobile - 07730097121 
+ Email – alexia.maria.p03@gmail.com 
 
- Coventry, West Midlands, CV48BB 
+ Coventry, West Midlands
  
 
 # Summary 
